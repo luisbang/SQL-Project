@@ -42,7 +42,7 @@
   ![image](https://user-images.githubusercontent.com/79090589/114401023-eb3daa80-9b78-11eb-8c21-5db1bc89dbf7.png)
   
   
-  *uggested action*
+  *Suggested action*
   
   first necessary action is to contact each customer (45 customers), having a friendly notice before placing
 the customer in a dirty name. If the customer is not able to pay, it would even be possible to have a negotiation decreasing the interest that has been accumulated to encourage the repayment of the loan to be able to receive all loans from customers
