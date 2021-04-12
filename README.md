@@ -37,7 +37,7 @@
 
   **2.2 Bad client**
   
-  a) An analysis was made of all clients who made a loan and passed the contract and still have not been able to repay the loan and are in debt (45 clients). analyzing the table, percentage of loan paid varied from 1.76 ~ 8%, most were unable to pay even 5%. 
+  a) An analysis was made of all clients who made a loan and passed the contract and still have not been able to repay the loan and are in debt (45 clients). analyzing the table, percentage of loan paid varied from 1.66 ~ 8%, most were unable to pay even 5%. 
   
   ![image](https://user-images.githubusercontent.com/79090589/114401023-eb3daa80-9b78-11eb-8c21-5db1bc89dbf7.png)
   
