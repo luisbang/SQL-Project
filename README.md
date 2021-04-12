@@ -2,8 +2,8 @@
 
 # SQL Project - Improving the bank service solution
 
-1. Problem
+* 1. Problem
 
-   *The bank wants to improve their services. For instance, the bank managers have only vague idea,
-    who is a good client (whom to offer some additional services) and who is a bad client
-    (whom to watch carefully to minimize the bank loses).
+   ** The bank wants to improve their services. For instance, the bank managers have only vague idea,
+   ** who is a good client (whom to offer some additional services) and who is a bad client
+   ** (whom to watch carefully to minimize the bank loses).
